@@ -1,2 +1,2 @@
 # Projeto Notícias Cidade
-Projeto desenvolvido com conhecimento em HTML5 e CSS3, utilizando conceitos de layouts (para diferentes tamanhos), estruturação barras de navegação (horizontal e vertical), formatação de formulários e formatação de prefixos que permitem que o site funcione em diferentes borwsers.
+Projeto feito baseado em um site de notícias, onde é exibindo barra de navegação, dividdo em 3 colunas usando Float na Div para deslocá-las, seletores descendentes para ativar e desativar os links. Além disso, foi aplicado Input e Label para criar uma caixa de e-mail e se cadastrar.
